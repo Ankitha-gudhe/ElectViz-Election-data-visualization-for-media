@@ -4,11 +4,18 @@ ElectViz is an interactive data visualization project designed to present electi
 This project is ideal for journalists, analysts, and the general public to quickly understand voting trends, party performance, and regional insights.
 
  Features
+
+ 
 📊 Interactive dashboards for election analysis
+
 🗺️ Region-wise voting patterns and results
+
 📈 Party performance comparison
+
 🧮 Vote share and seat distribution analysis
+
 🔍 Filter and drill-down capabilities
+
 📌 Easy-to-understand visual storytelling
 
  Tools & Technologies
@@ -17,10 +24,15 @@ Microsoft Excel / CSV – Data preprocessing
 GitHub – Version control and sharing
 
  Dashboard Insights
+ 
 The dashboard provides insights such as:
+
 Total seats won by each party
+
 Vote share percentage
+
 State/region-wise results
+
 Winning margins and trends
 
 🖼️ Sample Dashboard
